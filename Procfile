@@ -1,1 +1,1 @@
-web: python emy_bot.py
+bot: python emy_bot.py
